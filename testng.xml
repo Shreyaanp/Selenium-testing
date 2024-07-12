@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="E-commerce Test Suite">
+    <test name="E-commerce Tests">
+        <classes>
+            <class name="com.example.test.Nykaa"/>
+            <class name="com.example.test.Meesho"/>
+            <class name="com.example.test.HandleDynamic"/>
+        </classes>
+    </test>
+</suite>
